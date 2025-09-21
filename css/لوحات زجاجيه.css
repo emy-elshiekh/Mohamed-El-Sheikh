@@ -1,0 +1,23 @@
+.img {
+    width: 17rem;
+    height: 9rem;
+}
+
+.img-1{
+    width: 22rem;
+}
+.img-1:hover{
+    transition: 1s linear;
+    transform: scale(1.1);
+}
+.img:hover{
+    transition: 1s linear;
+    transform: scale(1.2);
+}
+
+
+
+
+
+
+
